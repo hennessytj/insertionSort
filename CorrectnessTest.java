@@ -1,6 +1,8 @@
 import edu.princeton.cs.algs4.StdOut;
 import edu.princeton.cs.algs4.StdRandom;
 
+/**** Disclaimer - largely inspired by http://algs4.cs.princeton.edu/ material ****/
+
 public class CorrectnessTest
 {
     private static final double MAXIMUM_INTEGER = 1000000.0;
