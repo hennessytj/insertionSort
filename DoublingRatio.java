@@ -3,7 +3,10 @@ import edu.princeton.cs.algs4.StdRandom;
 import edu.princeton.cs.algs4.StdOut;
 
 /******************************************************************************
- *  Compilation:  javac DoublingRatio.java
+ * Disclaimer: This code was taken directly from 
+ * http://algs4.cs.princeton.edu/14analysis/DoublingRatio.java.html.  Only minor
+ * modifications were made to adapt to this my purpose.
+ * Compilation:  javac DoublingRatio.java
  *  Execution:    java DoublingRatio
  *  Dependencies: Insertion.java (my code) Stopwatch.java StdRandom.java StdOut.java
  *
